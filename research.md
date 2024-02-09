@@ -7,9 +7,8 @@ in_menu: true
 
 ![fromCoolSnap]({% link images/fromCoolSnap.png %}) 
 
-<div>
-      <p class="name">freeCodeCamp</p>
-      <button onclick="changeColor('blue')" class="blue">Blue</button>
-      <button onclick="changeColor('green')" class="green">Green</button>
-      <button onclick="changeColor('orangered')" class="orange">Orange</button>
-</div> 
+If you click on the Download button, you accept the licence.
+
+
+<button onclick="document.getElementById('link').click()">Download!</button>
+<a id="link" href="https://mycore.core-cloud.net/index.php/s/L6WbpO0JhQjprqO" download hidden></a> 
