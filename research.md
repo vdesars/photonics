@@ -11,4 +11,4 @@ If you click on the Download button, you accept the licence.
 
 
 <button onclick="document.getElementById('link').click()">Download!</button>
-<a id="link" href="https://mycore.core-cloud.net/index.php/s/L6WbpO0JhQjprqO" download hidden></a> 
+<a id="link" href="https://mycore.core-cloud.net/index.php/s/L6WbpO0JhQjprqO/download" download hidden></a> 
